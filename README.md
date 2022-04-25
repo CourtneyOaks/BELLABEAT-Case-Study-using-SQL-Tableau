@@ -1,4 +1,3 @@
-# BELLABEAT-Case-Study-using-SQL-and-Tableau
 ![page1image39361024](https://user-images.githubusercontent.com/102244119/163694373-be0fae51-2232-43de-b2ee-65b53334f875.png)
 
 
