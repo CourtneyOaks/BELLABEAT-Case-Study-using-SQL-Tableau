@@ -81,6 +81,10 @@ Verified the average number of sleep for users, in minutes and then converted th
 ![BigQuery11-2](https://user-images.githubusercontent.com/102244119/163736126-c88aec7b-ca62-4d1e-9244-6a660f2e23f1.png)
 ![BigQuery11-3](https://user-images.githubusercontent.com/102244119/163736129-2719a47f-ef0e-4cdc-a910-1444ae60a46d.png)
 
+I wanted to join the daily_activities table and sleep table to perform a comparison of active minutes versus sleep minutes that each distinct user is getting. I did that with the following query. The results show that activity levels have an impact on sleep levels. Users clearly get more sleep on more active days.
+
+![Screen Shot 2022-04-26 at 8 34 11 AM](https://user-images.githubusercontent.com/102244119/165311902-4dc76f84-1f64-4d04-9a01-e2bf86e67921.png)
+
 I checked to see how many users are actively keeping track of their weight as well as the maximum and minimum weight of each unique user. Additionally, I verified the average weight (in pounds) and average BMI of users.
 
 ![BigQuery12-1](https://user-images.githubusercontent.com/102244119/163736172-c6ab34ac-66e0-481f-b424-16304e8646b3.png)
