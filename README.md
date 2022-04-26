@@ -24,7 +24,7 @@ The data provided is FitBit Fitness Tracker Data (CC0: Public Domain, dataset ma
 
 
 ## Preparation, processing, and analysis of the data
-Uploaded CSV data files for daily activity, daily calories, sleep a day, and weight loss in BigQuery. The sleep_day and weight_loss CSV files had the incorrect date and time format to be uploaded to BigQuery, so I to the correct format of YYYY-MM-DD HH:MM. 
+Uploaded CSV data files for daily activity, daily calories, sleep a day, and weight loss in BigQuery. The sleep_day and weight_loss CSV files had the incorrect date and time format to be uploaded to BigQuery, so I corrected the format to YYYY-MM-DD HH:MM. 
 
 
 Started exploring the dataset, including checking the number of rows in the data starting with the daily activities table. Repeated this query for the daily calories, sleep a day, and weight loss tables. The result was a count of 940 rows for daily activity, 940 rows for daily calories, 413 rows for sleep day, and 67 rows for weight loss.
