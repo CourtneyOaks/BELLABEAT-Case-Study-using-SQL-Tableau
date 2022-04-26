@@ -36,7 +36,7 @@ Checked the user Id’s to ensure consistency in the number of character length 
 ![BIgQuery2-1](https://user-images.githubusercontent.com/102244119/163735426-a010f001-c595-4d57-9dcf-34d83088b78b.png)
 ![BigQuery2-2](https://user-images.githubusercontent.com/102244119/163735429-b3e9b65f-3a82-4a4b-bcd3-f441a3515c5f.png)
 
-Checked for duplicates, and verified how many total (unique) user ids were in each of the tables. Performed the following query for the daily activity table and then repeated it for the additional three tables.
+Checked for duplicates, and verified how many total (unique) user ids were in each of the tables. Performed the following query for the daily activity table and then repeated it for the additional three tables. Results were 33 distinct user ids in the daily activity table, 33 distinct user ids in the daily calories table, 24 distinct user ids in the sleep a day table and 8 distinct user ids in the weight loss table.
 
 ![BigQuery3](https://user-images.githubusercontent.com/102244119/163735462-7dc91d3e-9788-4a83-aba4-eb1513516545.png)
 
