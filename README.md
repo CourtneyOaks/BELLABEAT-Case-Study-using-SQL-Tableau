@@ -104,7 +104,7 @@ I checked to see how many users are actively keeping track of their weight as we
 ![Bellabeat_SleepTracking](https://user-images.githubusercontent.com/102244119/163734245-1e0630da-bf76-482b-af11-5f4ec3ec1b0c.png)
 
 ### **Users averaged an average of 6.99 hours (419.46 minutes) in bed, however of that time users spend an average of 39 minutes awake in bed.**
-![BellaBeat_TimeInBed-vs-TimeAsleep](https://user-images.githubusercontent.com/102244119/163734289-9077e03a-323d-4c18-b13a-cafd727bd375.png)
+![Updated_BB_Sleep](https://user-images.githubusercontent.com/102244119/206936678-d3ae8acd-619d-4aed-9f53-dac3261a2047.png)
 
 ## Recommendations
 - Create a pulse alert through the Leaf device or through the Bellabeat app that encourages movement regularly throughout the day and promotes a healthier and more active lifestyle.
