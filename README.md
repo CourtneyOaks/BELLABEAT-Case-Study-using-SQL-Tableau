@@ -97,9 +97,6 @@ I checked to see how many users are actively keeping track of their weight as we
 ![Bellabeat_Sedentary-vs-LightlyActive](https://user-images.githubusercontent.com/102244119/163734188-df4e1ea9-b270-4a82-a9ff-9ae3d5e73749.png)
 ![Bellabeat_FairlyActive-vs-VeryActive](https://user-images.githubusercontent.com/102244119/163734193-8ea13c32-99d4-43fc-b026-46aa5ce1296e.png)
 
-### **Users consistency in tracking activities declined throughout the month, showing that users prefer not to have to manually track everything. In addition, only four users tracked activity with a distance over 0.0.**
-![Bellabeat_LoggedActivities-vs-LoggedDistance](https://user-images.githubusercontent.com/102244119/163734211-b328929d-89d7-42e6-9831-d3d4e9762260.png)
-
 ### **Sleep tracking was the highest priority with users, with over 72% of users taking the time to track sleep.**
 ![Bellabeat_SleepTracking](https://user-images.githubusercontent.com/102244119/163734245-1e0630da-bf76-482b-af11-5f4ec3ec1b0c.png)
 
